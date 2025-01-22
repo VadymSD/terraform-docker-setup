@@ -1,6 +1,6 @@
-# Terraform Application Setup
+# GO-TO-DO Application Terraform Setup
 
-This README provides instructions for setting up an application using Terraform, with modules for different components including images, containers, and networks. The application comprises a backend, an Nginx server configured with SSL, and a frontend.
+This README provides instructions for setting up the go-to-do application using Terraform, with modules for different components including images, containers, and networks. The application comprises a backend, an Nginx server configured with SSL, and a frontend.
 
 ## Prerequisites
 
@@ -44,3 +44,5 @@ To destroy the infrastructure, run:
 ```bash
 terraform destroy
 ```
+## Application Reference
+For application reference, visit [Link](https://github.com/schadokar/go-to-do-app)
